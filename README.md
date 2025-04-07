@@ -6,4 +6,4 @@ Select multiple PDF files (either in full or partial content) and combine them i
 ![](./screenshot.png)
 
 ## Licence
-GNU GENERAL PUBLIC LICENSE Version 3
+MIT License - see LICENSE for more details
